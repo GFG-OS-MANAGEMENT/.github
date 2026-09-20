@@ -1,0 +1,52 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 200" width="100%" height="200">
+  <defs>
+    <linearGradient id="bgGrad" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#0a1218" />
+      <stop offset="50%" stop-color="#072213" />
+      <stop offset="100%" stop-color="#05170d" />
+    </linearGradient>
+    <linearGradient id="brandGrad" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#00df81" />
+      <stop offset="50%" stop-color="#2ea043" />
+      <stop offset="100%" stop-color="#56d364" />
+    </linearGradient>
+    <pattern id="grid" width="30" height="30" patternUnits="userSpaceOnUse">
+      <path d="M 30 0 L 0 0 0 30" fill="none" stroke="rgba(46, 160, 67, 0.08)" stroke-width="1"/>
+    </pattern>
+    <radialGradient id="glow" cx="50%" cy="0%" r="70%">
+      <stop offset="0%" stop-color="rgba(0, 223, 129, 0.2)" />
+      <stop offset="100%" stop-color="rgba(0, 0, 0, 0)" />
+    </radialGradient>
+  </defs>
+
+  <!-- Background with rounded corners and border -->
+  <rect width="900" height="200" rx="16" fill="url(#bgGrad)" stroke="#1f4b2c" stroke-width="1.5"/>
+  <rect width="900" height="200" rx="16" fill="url(#grid)" />
+  <rect width="900" height="200" rx="16" fill="url(#glow)" />
+
+  <!-- Code brackets motif -->
+  <text x="50" y="125" fill="rgba(46, 160, 67, 0.18)" font-family="monospace" font-size="110" font-weight="900">&lt;</text>
+  <text x="805" y="125" fill="rgba(46, 160, 67, 0.18)" font-family="monospace" font-size="110" font-weight="900">/&gt;</text>
+
+  <!-- Badge Capsule -->
+  <g transform="translate(450, 42)">
+    <rect x="-140" y="-14" width="280" height="28" rx="14" fill="rgba(46, 160, 67, 0.18)" stroke="#2ea043" stroke-width="1"/>
+    <circle cx="-116" cy="0" r="4" fill="#00df81"/>
+    <text x="-104" y="4" fill="#3fb950" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="11" font-weight="700" letter-spacing="1.2">GEEKSFORGEEKS STUDENT CHAPTER</text>
+  </g>
+
+  <!-- Main Title -->
+  <text x="450" y="105" text-anchor="middle" fill="url(#brandGrad)" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="42" font-weight="900" letter-spacing="-0.5">GFG BVCOE</text>
+
+  <!-- Subtitle -->
+  <text x="450" y="136" text-anchor="middle" fill="#8b949e" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="14" font-weight="500">Bharati Vidyapeeth's College of Engineering · New Delhi</text>
+
+  <!-- Highlights line -->
+  <g transform="translate(450, 168)" text-anchor="middle" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="12" fill="#c9d1d9" font-weight="600">
+    <text x="0">
+      <tspan fill="#3fb950">&#x25CF; </tspan>100+ Active Members &nbsp;&nbsp;|&nbsp;&nbsp; 
+      <tspan fill="#3fb950">&#x25CF; </tspan>24+ Open Source Repos &nbsp;&nbsp;|&nbsp;&nbsp; 
+      <tspan fill="#3fb950">&#x25CF; </tspan>8 Dedicated Tech Tracks
+    </text>
+  </g>
+</svg>
