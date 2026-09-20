@@ -1,10 +1,10 @@
 <div align="center">
 
-  <img src="./assets/banner.svg" width="100%" alt="GFG BVCOE Banner" />
+  <img src="https://raw.githubusercontent.com/GFG-OS-MANAGEMENT/.github/main/profile/assets/banner.svg" width="100%" alt="GFG BVCOE Banner" />
 
   <br /><br />
 
-  <img src="./assets/logo-circle.png" width="135" height="135" alt="GFG BVCOE Logo" />
+  <img src="https://raw.githubusercontent.com/GFG-OS-MANAGEMENT/.github/main/profile/assets/logo-circle.png" width="135" height="135" alt="GFG BVCOE Logo" />
 
   # GeeksforGeeks Student Chapter
   ### Bharati Vidyapeeth's College of Engineering (BVCOE), New Delhi
