@@ -62,15 +62,15 @@ The **GeeksforGeeks Student Chapter at BVCOE** is a collaborative ecosystem desi
 
 Our projects are structured across **7 core domains**, enabling contributors to focus on their technical area of choice:
 
-| # | Domain | Focus Areas | Primary Tech Stack |
+| # | Domain | Focus Areas & Projects | Contributor Level |
 | :-: | :--- | :--- | :--- |
-| 🌐 | **Web Development** | Modern fullstack web apps, interactive UIs, REST/GraphQL APIs | `React`, `Next.js`, `Node.js`, `TypeScript`, `Tailwind CSS` |
-| 📱 | **App Development** | Cross-platform mobile applications & native mobile utilities | `Flutter`, `React Native`, `Android (Kotlin)` |
-| ⛓️ | **Blockchain & Web3** | Decentralized apps (dApps), smart contracts, Web3 protocols | `Solidity`, `Ethers.js`, `Web3.js`, `Hardhat` |
-| ⚙️ | **Systems & Backend** | Scalable backend architectures, microservices, databases, performance | `Go`, `Rust`, `Node.js`, `PostgreSQL`, `Redis` |
-| 🛡️ | **Cybersecurity** | Security automation, vulnerability assessment, CTF & InfoSec tools | `Python`, `Bash`, `Network Security`, `InfoSec Tools` |
-| ☁️ | **Cloud, DevOps & Infrastructure** | Containerization, CI/CD automation, cloud infrastructure & IaC | `Docker`, `Kubernetes`, `GitHub Actions`, `Terraform`, `AWS` |
-| 🛠️ | **Developer Tools** | CLI utilities, developer productivity tools, automation scripts | `Python`, `Go`, `Shell`, `Git`, `Package Ecosystems` |
+| 🌐 | **Web Development** | Full-stack websites, dashboards, portals, APIs | `Beginner` · `Intermediate` |
+| 📱 | **App Development** | Android, iOS, Flutter, React Native apps | `Beginner` · `Intermediate` · `Advanced` |
+| ⛓️ | **Blockchain & Web3** | Smart contracts, dApps, wallets, on-chain tools | `Beginner` · `Advanced` |
+| ⚙️ | **Systems & Backend** | Backend services, databases, microservices, distributed systems | `Beginner` · `Intermediate` · `Advanced` |
+| 🛡️ | **Cybersecurity** | Security tools, vulnerability scanners, authentication, CTF tooling | `Intermediate` · `Advanced` |
+| ☁️ | **Cloud, DevOps & Infrastructure** | Docker, CI/CD, Kubernetes, cloud deployments, monitoring | `Beginner` · `Advanced` |
+| 🛠️ | **Developer Tools** | CLI tools, libraries, SDKs, Git/GitHub tools, automation | `Beginner` · `Intermediate` · `Advanced` |
 
 ---
 
@@ -81,6 +81,11 @@ We actively encourage and welcome contributions from the community! Follow these
 ```
   1. Explore Repos  ──>  2. Fork & Branch  ──>  3. Build & Test  ──>  4. Open PR & Win
 ```
+
+<p align="center">
+  <a href="https://github.com/search?q=org%3AGFG-OS-MANAGEMENT+is%3Aissue+is%3Aopen+label%3A%22good+first+issue%22&type=issues"><img src="https://img.shields.io/badge/Good_First_Issues-Explore_Now-2ea043?style=for-the-badge&logo=github&logoColor=white" alt="Good First Issues" /></a>
+  <a href="https://github.com/search?q=org%3AGFG-OS-MANAGEMENT+is%3Aissue+is%3Aopen+label%3A%22help+wanted%22&type=issues"><img src="https://img.shields.io/badge/Help_Wanted-View_Tasks-orange?style=for-the-badge&logo=github&logoColor=white" alt="Help Wanted" /></a>
+</p>
 
 1. **Find an Issue:** Browse our repositories and look for tags like `good-first-issue` or `help-wanted`.
 2. **Fork the Repository:** Create your own copy of the repository by clicking the **Fork** button.
