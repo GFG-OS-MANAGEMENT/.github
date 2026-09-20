@@ -16,13 +16,12 @@
   <p align="center">
     <a href="https://www.gfg-bvcoe.in/"><img src="https://img.shields.io/badge/Official_Website-gfg--bvcoe.in-2f8d46?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Official Website" /></a>
     <a href="https://www.instagram.com/gfg_bvcoe/"><img src="https://img.shields.io/badge/Instagram-@gfg__bvcoe-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" /></a>
-    <a href="https://linktr.ee/mukul_gupta7291"><img src="https://img.shields.io/badge/Join_Community-Linktree-43e082?style=for-the-badge&logo=linktree&logoColor=black" alt="Linktree" /></a>
   </p>
 
   <p align="center">
     <img src="https://img.shields.io/badge/Community-100%2B_Active_Members-2ea043?style=flat-square&logo=github&logoColor=white" alt="Members" />
     <img src="https://img.shields.io/badge/Open_Source-24%2B_Active_Projects-2ea043?style=flat-square&logo=git&logoColor=white" alt="Projects" />
-    <img src="https://img.shields.io/badge/Tracks-8_Tech_Domains-2ea043?style=flat-square&logo=target&logoColor=white" alt="Tracks" />
+    <img src="https://img.shields.io/badge/Domains-7_Tech_Domains-2ea043?style=flat-square&logo=target&logoColor=white" alt="Domains" />
     <img src="https://img.shields.io/badge/Contributions-Open_&_Welcoming-success?style=flat-square" alt="Contributions" />
   </p>
 
@@ -48,8 +47,8 @@ The **GeeksforGeeks Student Chapter at BVCOE** is a collaborative ecosystem desi
     <td width="50%" valign="top">
       <h3>🚀 GFG-BVCOE Open Source</h3>
       <ul>
-        <li><b>24+ Real-World Repositories:</b> Build practical utilities, modern web apps, mobile tools, and AI solutions.</li>
-        <li><b>8 Specialized Tracks:</b> Deep-dive into specific tech ecosystems matching your interest.</li>
+        <li><b>24+ Real-World Repositories:</b> Build practical utilities, modern web apps, mobile tools, and backend systems.</li>
+        <li><b>7 Specialized Domains:</b> Deep-dive into specific tech ecosystems matching your interest.</li>
         <li><b>Skill Acceleration:</b> Gain tangible production experience and Git collaboration skills.</li>
         <li><b>Certificates & Rewards:</b> Participation certificates for all verified contributors and winner certificates for top performers! 🏆</li>
       </ul>
@@ -59,20 +58,19 @@ The **GeeksforGeeks Student Chapter at BVCOE** is a collaborative ecosystem desi
 
 ---
 
-## 🎯 8 Open Source Tracks
+## 🎯 7 Open Source Domains
 
-Our projects are structured across **8 core tracks**, enabling contributors to focus on their domain of choice:
+Our projects are structured across **7 core domains**, enabling contributors to focus on their technical area of choice:
 
-| # | Track | Focus Areas | Primary Tech Stack |
+| # | Domain | Focus Areas | Primary Tech Stack |
 | :-: | :--- | :--- | :--- |
-| 🌐 | **Web Development** | Frontend UI, Fullstack applications, Backend REST/GraphQL APIs | `React`, `Next.js`, `Node.js`, `TypeScript`, `Tailwind CSS` |
+| 🌐 | **Web Development** | Modern fullstack web apps, interactive UIs, REST/GraphQL APIs | `React`, `Next.js`, `Node.js`, `TypeScript`, `Tailwind CSS` |
 | 📱 | **App Development** | Cross-platform mobile applications & native mobile utilities | `Flutter`, `React Native`, `Android (Kotlin)` |
-| 🤖 | **AI / ML & Data Science** | Predictive models, computer vision, NLP, and data analysis | `Python`, `TensorFlow`, `PyTorch`, `Scikit-Learn`, `Pandas` |
-| ☁️ | **Cloud & DevOps** | Containerization, CI/CD automation, cloud infrastructure | `Docker`, `Kubernetes`, `GitHub Actions`, `AWS`, `Linux` |
-| 🛡️ | **Cybersecurity** | Security automation, vulnerability assessment, CTF tools | `Python`, `Bash`, `Network Security`, `InfoSec Tools` |
-| ⛓️ | **Web3 & Blockchain** | Decentralized apps (dApps), smart contracts, token integration | `Solidity`, `Ethers.js`, `Web3.js`, `Hardhat` |
-| 🎨 | **UI / UX & Product Design** | Design systems, accessible user flows, prototype components | `Figma`, `UI Systems`, `Responsive Design` |
-| ⚡ | **DSA & Core Systems** | Problem solving, algorithmic utilities, CS fundamentals | `C++`, `Java`, `Python`, `Algorithms` |
+| ⛓️ | **Blockchain & Web3** | Decentralized apps (dApps), smart contracts, Web3 protocols | `Solidity`, `Ethers.js`, `Web3.js`, `Hardhat` |
+| ⚙️ | **Systems & Backend** | Scalable backend architectures, microservices, databases, performance | `Go`, `Rust`, `Node.js`, `PostgreSQL`, `Redis` |
+| 🛡️ | **Cybersecurity** | Security automation, vulnerability assessment, CTF & InfoSec tools | `Python`, `Bash`, `Network Security`, `InfoSec Tools` |
+| ☁️ | **Cloud, DevOps & Infrastructure** | Containerization, CI/CD automation, cloud infrastructure & IaC | `Docker`, `Kubernetes`, `GitHub Actions`, `Terraform`, `AWS` |
+| 🛠️ | **Developer Tools** | CLI utilities, developer productivity tools, automation scripts | `Python`, `Go`, `Shell`, `Git`, `Package Ecosystems` |
 
 ---
 
@@ -125,9 +123,8 @@ A huge shoutout to the amazing minds contributing to GFG BVCOE projects:
   ### 📬 Connect with Us
 
   <p>
-    <a href="https://www.gfg-bvcoe.in/"><img src="https://img.shields.io/badge/Website-www.gfg--bvcoe.in-2f8d46?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Website" /></a>
+    <a href="https://www.gfg-bvcoe.in/"><img src="https://img.shields.io/badge/Official_Website-www.gfg--bvcoe.in-2f8d46?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Website" /></a>
     <a href="https://www.instagram.com/gfg_bvcoe/"><img src="https://img.shields.io/badge/Instagram-@gfg__bvcoe-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" /></a>
-    <a href="https://linktr.ee/mukul_gupta7291"><img src="https://img.shields.io/badge/Community-Join%20Our%20Channels-43e082?style=for-the-badge&logo=linktree&logoColor=black" alt="Linktree" /></a>
   </p>
 
   <p><sub>Made with 💚 by the <b>GeeksforGeeks Student Chapter · BVCOE New Delhi</b></sub></p>
